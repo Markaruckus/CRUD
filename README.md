@@ -1,20 +1,24 @@
-# Basic proof of understanding of CRUD
+# Ruby on Rails Test
+## Miss Louise's Class
+### She's the best
 
-CREATE, READ, UPDATE, DESTROY
 
 
-* index database
+#### CREATE, READ, UPDATE, DESTROY
+* This was the beginning of a bigger site, but eventaully just left as a proof of understanding of the CRUD concept of Ruby on Rails
 
-* list database entries
+- [x] index database
 
-* create database entry
+- [x] list database entries
 
-* read database entry
+- [x] create database entry
 
-* update database entry
+- [x] read database entry
 
-* destroy database entry
+- [x] update database entry
 
-* buttons
+- [x] destroy database entry
 
-* page for creating, updating, listing, and home
+- [x] buttons
+
+- [x] page for creating, updating, listing, and home

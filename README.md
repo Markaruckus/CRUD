@@ -1,24 +1,20 @@
-# README
+# Basic proof of understanding of CRUD
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+CREATE, READ, UPDATE, DESTROY
 
-Things you may want to cover:
 
-* Ruby version
+* index database
 
-* System dependencies
+* list database entries
 
-* Configuration
+* create database entry
 
-* Database creation
+* read database entry
 
-* Database initialization
+* update database entry
 
-* How to run the test suite
+* destroy database entry
 
-* Services (job queues, cache servers, search engines, etc.)
+* buttons
 
-* Deployment instructions
-
-* ...
+* page for creating, updating, listing, and home

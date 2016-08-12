@@ -1,7 +1,5 @@
 # CRUD Proof of Concept
-## Miss Louise's Class
-### She's the best
-
+## Miss Louise's Class (she's the best!)
 
 
 #### CREATE, READ, UPDATE, DESTROY
